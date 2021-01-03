@@ -4,6 +4,7 @@ import styled from '@emotion/styled'
 import Container from '@layout/Container'
 
 const Footer = styled.footer`
+  margin-top: 200px;
   color: #666;
   border-top: 1px solid #efefef;
   padding: 20px 0 50px;
