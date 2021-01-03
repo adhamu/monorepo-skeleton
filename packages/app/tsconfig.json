@@ -9,7 +9,6 @@
       "@pages/*": ["src/pages/*"],
       "@layout/*": ["src/layout/*"],
       "@components/*": ["src/components/*"],
-      "@utils/*": ["src/utils/*"],
       "@global/*": ["src/*"]
     }
   }

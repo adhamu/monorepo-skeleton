@@ -34,7 +34,6 @@ const config: webpack.Configuration = {
       '@pages': path.resolve(__dirname, 'src/pages/'),
       '@layout': path.resolve(__dirname, 'src/layout/'),
       '@components': path.resolve(__dirname, 'src/components/'),
-      '@utils': path.resolve(__dirname, 'src/utils/'),
       '@global': path.resolve(__dirname, 'src/'),
     },
   },
