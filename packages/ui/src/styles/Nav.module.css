@@ -1,0 +1,23 @@
+.nav {
+  margin: 1rem 0 2rem;
+
+  ul {
+    display: flex;
+    align-items: flex-start;
+    border-bottom: 6px solid #512da8;
+    list-style-type: none;
+
+    li {
+      margin-right: 2rem;
+      margin-bottom: -0.6rem;
+
+      a {
+        font-weight: 700;
+      }
+    }
+  }
+}
+
+.active {
+  border-bottom: 6px solid #8700d5;
+}

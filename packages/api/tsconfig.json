@@ -1,0 +1,9 @@
+{
+  "extends": "@adhamu/zero/tsconfig/base.json",
+  "include": ["src/**/*.ts"],
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "moduleResolution": "node",
+    "baseUrl": "."
+  }
+}
